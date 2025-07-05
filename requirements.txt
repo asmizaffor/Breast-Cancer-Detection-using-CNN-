@@ -1,8 +1,7 @@
 streamlit>=1.28
-NumPy 1.22.4 
-Pandas 1.4.2 
-Matplotlib 3.5.2
-TensorFlow 2.15
-Scikit‑learn 1.4
-OpenCV 4.10
-Python 3.10
+numpy==1.22.4
+pandas==1.4.2
+matplotlib==3.5.2
+tensorflow==2.15.0
+scikit-learn==1.4.0
+opencv-python==4.10.0.0
