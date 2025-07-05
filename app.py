@@ -1,6 +1,3 @@
-
-# streamlit run "/Users/asmizaffor/Downloads/6TH SEM/minor project/app.py"
-
 # app.py
 import streamlit as st
 import cv2
